@@ -1,0 +1,18 @@
+.rodape {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 64px ;
+    background-color: #6278F7;
+}
+
+.icons {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+}
+
+.rodape p {
+    font-size: 20px;
+    color: #FFFFFF;
+}
